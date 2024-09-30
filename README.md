@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel Logo" width="200"/>
+</p>
+
 # 🎉 Tutorial Menggunakan Website Sistem Katalog Produk
 
 1. **Clone project / download project**
