@@ -176,7 +176,7 @@
                 <div class="col-lg-12">
                     <div class="logo-search-category-wrapper after-md-device-header">
                         <a href="/" class="logo-area">
-                            <img src="" alt="logo-main" class="logo">
+                            <img src="{{ asset('logo.png') }}" alt="logo-main" class="logo">
                         </a>
                         <div class="category-search-wrapper">
                             <div class="category-btn category-hover-header">
@@ -366,15 +366,7 @@
                                     </svg>
 
                                 </div>
-                                <div class="menu-btn">
-
-                                    <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <rect y="14" width="20" height="2" fill="#1F1F25"></rect>
-                                        <rect y="7" width="20" height="2" fill="#1F1F25"></rect>
-                                        <rect width="20" height="2" fill="#1F1F25"></rect>
-                                    </svg>
-
-                                </div>
+                              
                             </div>
                         </div>
                     </div>
