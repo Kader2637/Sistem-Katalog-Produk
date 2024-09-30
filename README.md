@@ -4,7 +4,7 @@
 
 # 🎉 Panduan Menggunakan Website Sistem Katalog Produk
 
-1. **Kloning atau mengunduh proyek**
+1. **Cloning atau mengunduh proyek**
 2. **Membuka proyek**
 3. **Menjalankan perintah** `composer install` atau `composer update`
 4. **Membuat file `.env`**
