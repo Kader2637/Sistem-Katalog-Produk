@@ -22,3 +22,4 @@
 - **URL API DELETE**: `http://127.0.0.1:8000/api/customer/1`
 
 > **Catatan**: Angka 1 tersebut merujuk pada **ID** yang dituju.
+>  **Catatan**: Anda dapat menggunakan postman untuk mencobanya.
